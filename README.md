@@ -1,5 +1,5 @@
 #Large-scale realtime similar image search
-This is the code for the final project for Columbia E6893 big data analytics class. Our project is to use Spark to implement a online searching framework. Java codes can be built by using pom.xml file.
+This is the code for the final project for Columbia E6893 big data analytics class. Group id is 201612-105 Our project is to use Spark to implement a online searching framework. Java codes can be built by using pom.xml file.
 
 To run this codes, you have to prepare input file for Hadoop. Input file should be a txt file includes the path for all images. Hadoop mapper will read images from these paths and convert them into feature vectors.
 
