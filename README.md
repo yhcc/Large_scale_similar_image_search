@@ -21,7 +21,7 @@ spark-submit --class com.bigdata.spark.onlineSearching project2-0.0.1-SNAPSHOT-s
 The meaning of these parameters:
 running model/app name/Durations/receiver host/receiver port/result sender host/result sender port/number of clusters to search/number of queries to return/where to read cluster center data/where to read image features
 
-4.run python receiver.ipython and sender.ipython  
+Run python receiver.ipython and sender.ipython  
 just open jupyter notebook, and run one by one. Sender should be running before spark streaming is working.
 
 
